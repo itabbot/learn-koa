@@ -1,0 +1,9 @@
+{
+  "name": "simplest-monolithic",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "koa": "^2.14.2",
+    "koa-views": "^8.1.0"
+  }
+}
