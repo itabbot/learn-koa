@@ -1,0 +1,7 @@
+{
+  "name": "onion-model-middleware",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.14.2"
+  }
+}
